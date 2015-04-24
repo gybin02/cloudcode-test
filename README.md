@@ -16,3 +16,7 @@
 ## 网站托管
 
 使用云代码在AVOS Cloud上托管您的网站，参见[云代码开发指南](https://cn.avoscloud.com/docs/cloud_code_guide.html)。
+
+## 部署修改 By Me
+1. 更改 config 下的 appKey 
+2. 参加 表 Visitor 加一列 name.
